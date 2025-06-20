@@ -9,8 +9,23 @@ An AI-powered web application that leverages the YOLOv7 deep learning model and 
 - OpenCV
 - Render
 
-## Link to use the application:
+## Clone the repository:
 
 ```
+git clone https://github.com/K37VIN/Industry-Safety-Detection-.git
+```
+
+## Install the requirements:
 
 ```
+pip install -r requirements.txt
+```
+
+## Run the application:
+
+```
+python app.py
+```
+
+## Demo of the app:
+https://drive.google.com/drive/folders/1qNwsEOYFKILZUNEji_exOoYFUQ9Z5Jot?usp=sharing
