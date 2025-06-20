@@ -24,7 +24,6 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-
 data/*
 data/images/*
 !data/*.yaml
@@ -55,6 +54,7 @@ val2017.zip
 # Neural Network weights -----------------------------------------------------------------------------------------------
 *.weights
 *.pt
+!yolov7/runs/train/exp/weights/best.pt
 *.pb
 *.onnx
 *.engine
